@@ -3,6 +3,17 @@
 
 <h2>👨‍💻 About me:</h2>
 
+<p style="text-align: justify;"><span style="color: #ff0000;">I am a dedicated and experienced Senior Technical Support/System Administrator with a strong background in managing complex IT infrastructures, providing exceptional customer support, and ensuring seamless system operations. With a proven track record of troubleshooting and resolving technical issues, I am passionate about leveraging my expertise to drive efficiency and optimize performance for businesses.</span></p>
+<p>My key skills and qualifications include:</p>
+<ul>
+<li><span style="color: #0000ff;">Expertise in Windows and Linux server administration, network management, and virtualization technologies,</span></li>
+<li><span style="color: #0000ff;">Strong problem-solving abilities and a customer-centric approach to technical support,</span></li>
+<li><span style="color: #0000ff;">Proficient in cloud computing platforms, such as AWS, Azure, GCP, Oracle,</span></li>
+<li><span style="color: #0000ff;">Experience with ITIL processes, IT security, and compliance,</span></li>
+<li><span style="color: #0000ff;">Excellent communication and collaboration skills, enabling me to work effectively with cross-functional teams.</span></li>
+</ul>
+<p style="text-align: justify;">Throughout my career, I have consistently demonstrated my commitment to staying up-to-date with the latest industry trends and technologies, ensuring that I can provide the best possible solutions for my clients. I am always eager to connect with like-minded professionals and explore new opportunities to grow and make a positive impact in the IT industry.</p>
+<p><span style="text-align: justify; color: #00ff00;"><strong>Specialties</strong>: System Administration, Technical Support, Windows, Linux, Networking, Virtualization, Cloud Computing, ITIL, IT Security, AWS, Azure, GCP, Oracle</span></p>
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
