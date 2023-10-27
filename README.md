@@ -31,6 +31,16 @@
 <p style="text-align: justify;">Throughout my career, I have consistently demonstrated my commitment to staying up-to-date with the latest industry trends and technologies, ensuring that I can provide the best possible solutions for my clients. I am always eager to connect with like-minded professionals and explore new opportunities to grow and make a positive impact in the IT industry.</p>
 <p><span style="text-align: justify; color: #00ff00;"><strong>Specialties</strong>: System Administration, Technical Support, Windows, Linux, Networking, Virtualization, Cloud Computing, ITIL, IT Security, AWS, Azure, GCP, Oracle</span></p>
 
+
+<div id="badges" align="center">
+  <a href=".">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WINDOWS Badge"/>
+  </a>
+  <a href=".">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX Badge"/>
+  </a>
+</div>
+
 <h2>👨‍💻 System Administration Projects:</h2>
 
   - [Automating Active Directory Deployment on Windows Server 2022 using PowerShell Script](https://dev.to/ekurtovic/automating-active-directory-deployment-on-windows-server-2022-using-powershell-script-3b2p)
