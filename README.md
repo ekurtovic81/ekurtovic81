@@ -32,21 +32,118 @@
 <p><span style="text-align: justify; color: #00ff00;"><strong>Specialties</strong>: System Administration, Technical Support, Windows, Linux, Networking, Virtualization, Cloud Computing, ITIL, IT Security, AWS, Azure, GCP, Oracle</span></p>
 
 
-<div id="badges" align="center">
-  <a href=".">
+<div id="OS" align="center">
+  <a href="">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WINDOWS Badge"/>
   </a>
-  <a href=".">
+  <a href="">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX Badge"/>
   </a>
-</div>
+  <a href="">
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Badge"/>
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="CentOS Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS Badge"/>
+  </a>
+  
+ </div>
+    
+<div id="Cloud" align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZURE Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GOOGLE Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="ORACLE Badge"/>
+  </a>
+  </div>
+
+  <div id="M365" align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word Badge"/>
+  </a>
+ </div>
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
   - [Automating Active Directory Deployment on Windows Server 2022 using PowerShell Script](https://dev.to/ekurtovic/automating-active-directory-deployment-on-windows-server-2022-using-powershell-script-3b2p)
+  - [Linux: Major Distribution Groups and the Top 10 Commands for System and Hardware Monitoring](https://dev.to/ekurtovic/linux-major-distribution-groups-and-the-top-10-commands-for-system-and-hardware-monitoring-4kj6)
+  - [The Advantages of Agentless Solutions for Backup - HYCU](https://dev.to/ekurtovic/the-advantages-of-agentless-solutions-for-backup-30bg)
+
 
 <h2>📜 Certification:</h2>
 
+<div id="Certification" align="center">
+  <a href="https://www.credly.com/badges/1c464dd8-399f-4bf1-9a93-3728e27dd467">
+    <img src="https://images.credly.com/size/340x340/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png" alt="Exam 410: Installing and Configuring Windows Server 2012" width="150"/>
+  </a>
+ <a href="https://www.credly.com/badges/aea227f6-ef25-4705-ab3c-0cefac385ec2">
+    <img src="https://images.credly.com/size/340x340/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png" alt="Exam 411: Administering Windows Server 2012" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/9776c01f-0a2b-4855-b2e7-2542b8ea70b0">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals AZ-900" width="150"/>
+  </a>
+ <a href="https://www.credly.com/badges/19d088bc-c994-4b85-990e-8f8609e42462">
+    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900" width="150"/>
+  </a>
+<div id="AWS" align="center">
+  <a href="https://www.credly.com/badges/35b76fb0-d452-449d-bbee-da7e52fbbd2f">
+    <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="150"/>
+  </a>
+ <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
+    <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="150"/>
+  </a>
+ <a href="https://www.credly.com/badges/bb586728-4742-4c35-8a8b-d1f011c510a8">
+    <img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting" width="150"/>
+  </a>
+ <a href="https://www.credly.com/badges/f7103c03-917c-4d1d-b591-f3dd4b8c1d5f">
+    <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" width="150"/>
+  </a>
+  </div>
+<div id="OCI" align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="300"/>
+  </a>
+ <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/103_Oracle_Cloud_Infrastructure_Architect_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21" width="300"/>
+  </a>
+ <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9AB7D6381AC6FAD551D33989D9EC014FBEE9E2074DBACF48EB67F56DA3B5B991">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/104_Oracle_Cloud_Infrastructure_Architect.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Professional 1Z0-997-21" width="300"/>
+  </a>
+</div>
+
+</div>
+
+<!--
   - [Exam 410: Installing and Configuring Windows Server 2012](https://www.credly.com/badges/1c464dd8-399f-4bf1-9a93-3728e27dd467)
   - [Exam 411: Administering Windows Server 2012](https://www.credly.com/badges/aea227f6-ef25-4705-ab3c-0cefac385ec2)
   - [Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/badges/9776c01f-0a2b-4855-b2e7-2542b8ea70b0)
@@ -59,7 +156,8 @@
   - [Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF)
   - [Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21](https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD)
   - [Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Professional 1Z0-997-21](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9AB7D6381AC6FAD551D33989D9EC014FBEE9E2074DBACF48EB67F56DA3B5B991) 
- 
+-->
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Emir_K | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />][linkedin]
