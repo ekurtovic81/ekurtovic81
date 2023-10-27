@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emir! <br/>
+<h1>Hi, My name is Emir! <br/>
 <a href="https://www.linkedin.com/in/emir-kurtovic/">Senior Support Engineer · IT Support Specialist · IT Consultant · IT Technician · System Administrator</a>,
 
 <h2>👨‍💻 About me:</h2>
@@ -57,3 +57,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ekurtovic81/count.svg" />
+</p>
