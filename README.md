@@ -131,13 +131,13 @@
   </div>
 <div id="OCI" align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="300"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="250"/>
   </a>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/103_Oracle_Cloud_Infrastructure_Architect_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21" width="300"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/103_Oracle_Cloud_Infrastructure_Architect_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21" width="250"/>
   </a>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9AB7D6381AC6FAD551D33989D9EC014FBEE9E2074DBACF48EB67F56DA3B5B991">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/104_Oracle_Cloud_Infrastructure_Architect.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Professional 1Z0-997-21" width="300"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/104_Oracle_Cloud_Infrastructure_Architect.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Professional 1Z0-997-21" width="250"/>
   </a>
 </div>
 
