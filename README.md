@@ -1,6 +1,22 @@
 <h1>Hi, My name is Emir! <br/>
 <a href="https://www.linkedin.com/in/emir-kurtovic/">Senior Support Engineer · IT Support Specialist · IT Consultant · IT Technician · System Administrator</a>,
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/emir-kurtovic/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/ekurtovic">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO Badge"/>
+  </a>
+  <a href="ekurtovic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+  </a>
+</div>
+
 <h2>👨‍💻 About me:</h2>
 
 <p style="text-align: justify;"><span style="color: #ff0000;">I am a dedicated and experienced Senior Technical Support/System Administrator with a strong background in managing complex IT infrastructures, providing exceptional customer support, and ensuring seamless system operations. With a proven track record of troubleshooting and resolving technical issues, I am passionate about leveraging my expertise to drive efficiency and optimize performance for businesses.</span></p>
