@@ -115,19 +115,16 @@
 <div id="AWS" align="center">
   <a href="https://www.credly.com/badges/35b76fb0-d452-449d-bbee-da7e52fbbd2f">
     <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="150"/>
-  </a>
- <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
+  <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
+   <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
     <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="150"/>
-  </a>
- <a href="https://www.credly.com/badges/bb586728-4742-4c35-8a8b-d1f011c510a8">
+  <a href="https://www.credly.com/badges/bb586728-4742-4c35-8a8b-d1f011c510a8">
     <img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting" width="150"/>
-  </a>
- <a href="https://www.credly.com/badges/f7103c03-917c-4d1d-b591-f3dd4b8c1d5f">
+  <a href="https://www.credly.com/badges/f7103c03-917c-4d1d-b591-f3dd4b8c1d5f">
     <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" width="150"/>
-  </a>
+  <a href="https://www.credly.com/badges/0b9eb467-a9ae-459b-a80c-e107b832d19a">
+    <img src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" alt="AWS Knowledge: Networking Core" width="150"/>
   </div>
 <div id="OCI" align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
