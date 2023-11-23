@@ -126,6 +126,8 @@
     <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" width="100"/>
   <a href="https://www.credly.com/badges/0b9eb467-a9ae-459b-a80c-e107b832d19a">
     <img src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" alt="AWS Knowledge: Networking Core" width="100"/>
+  <a href="https://www.credly.com/badges/e43b6d94-772c-4ccb-b4c1-5359c71df736">
+    <img src="https://images.credly.com/size/340x340/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" alt="AWS Knowledge: Block Storage" width="100"/>
   </div>
 <div id="OCI" align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
