@@ -108,25 +108,22 @@
 
 <h2>📜 Certification:</h2>
 
-<div id="Certification" align="center">
+<div id="Certification" align="left">
   <a href="https://www.credly.com/badges/1c464dd8-399f-4bf1-9a93-3728e27dd467">
-    <img src="https://images.credly.com/size/340x340/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png" alt="Exam 410: Installing and Configuring Windows Server 2012" width="150"/>
-  </a>
+    <img src="https://images.credly.com/size/340x340/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png" alt="Exam 410: Installing and Configuring Windows Server 2012" width="100"/>
  <a href="https://www.credly.com/badges/aea227f6-ef25-4705-ab3c-0cefac385ec2">
-    <img src="https://images.credly.com/size/340x340/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png" alt="Exam 411: Administering Windows Server 2012" width="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/9776c01f-0a2b-4855-b2e7-2542b8ea70b0">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals AZ-900" width="150"/>
-  </a>
+    <img src="https://images.credly.com/size/340x340/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png" alt="Exam 411: Administering Windows Server 2012" width="100"/>
+ <a href="https://www.credly.com/badges/9776c01f-0a2b-4855-b2e7-2542b8ea70b0">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals AZ-900" width="100"/>
  <a href="https://www.credly.com/badges/19d088bc-c994-4b85-990e-8f8609e42462">
-    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900" width="150"/>
-  </a>
-<div id="AWS" align="center">
-  <a href="https://www.credly.com/badges/35b76fb0-d452-449d-bbee-da7e52fbbd2f">
+    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900" width="100"/>
+ <a href="https://www.credly.com/badges/35b76fb0-d452-449d-bbee-da7e52fbbd2f">
     <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="100"/>
-  <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
+ <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="100"/>
-   <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
+</div>
+<div id="AWS" align="left">
+  <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
     <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="100"/>
   <a href="https://www.credly.com/badges/bb586728-4742-4c35-8a8b-d1f011c510a8">
     <img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting" width="100"/>
@@ -136,17 +133,22 @@
     <img src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" alt="AWS Knowledge: Networking Core" width="100"/>
   <a href="https://www.credly.com/badges/e43b6d94-772c-4ccb-b4c1-5359c71df736">
     <img src="https://images.credly.com/size/340x340/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" alt="AWS Knowledge: Block Storage" width="100"/>
+  <a href="https://www.credly.com/badges/bf2943af-5d18-4456-857b-cc3d61bc883c">
+    <img src="https://images.credly.com/size/340x340/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" alt="AWS Knowledge: Object Storage" width="100"/>
+  <a href="https://www.credly.com/badges/43526484-038a-435a-90a5-2f79e14c1801">
+    <img src="https://images.credly.com/size/340x340/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" alt="AWS Knowledge: File Storage" width="100"/>
+  <a href="https://www.credly.com/badges/82be60bf-773d-4417-8df6-7d16f7427434">
+    <img src="https://images.credly.com/size/340x340/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" alt="AWS Knowledge: Data Protection & Disaster Recovery" width="100"/>
+  <a href="https://www.credly.com/badges/80540154-10f5-4d79-bb0c-ed2c59804516">
+    <img src="https://images.credly.com/size/340x340/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png" alt="AWS Knowledge: Storage Core" width="100"/>
   </div>
-<div id="OCI" align="center">
+<div id="OCI" align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="250"/>
-  </a>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/103_Oracle_Cloud_Infrastructure_Architect_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21" width="250"/>
-  </a>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9AB7D6381AC6FAD551D33989D9EC014FBEE9E2074DBACF48EB67F56DA3B5B991">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/104_Oracle_Cloud_Infrastructure_Architect.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Professional 1Z0-997-21" width="250"/>
-  </a>
 </div>
 
 </div>
@@ -188,8 +190,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ekurtovic81/count.svg" />
 </p>
+-->
+<br/>
+</details>
+
+<div align="center"> 
+  
+<h3>Support My Work:</h3>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ekurtovic81) [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/ekurtovic81)
+</div>
