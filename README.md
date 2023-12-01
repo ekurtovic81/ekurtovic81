@@ -12,10 +12,18 @@
   <a href="https://dev.to/ekurtovic">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO Badge"/>
   </a>
-  <a href="ekurtovic@gmail.com">
+  <a href="mailto:ekurtovic@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
-  </a>
+  </a> 
 </div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ekurtovic81&color=green&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/ekurtovic81?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/ekurtovic81?tab=repositories&sort=stargazers)
+
+</div>
+
+<br/>
 
 <h2>👨‍💻 About me:</h2>
 
