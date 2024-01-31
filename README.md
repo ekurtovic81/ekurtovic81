@@ -150,8 +150,8 @@
     
   </div>
 <div id="OCI" align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="250"/>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=40A5DA1B0D03F13DEA858FC62290245FA5186F45DDA4CD69F9235F3ABCFD97C9">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2023 Certified Associate 1Z0-1085-23" width="250"/>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/103_Oracle_Cloud_Infrastructure_Architect_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Architect Associate 1Z0-1072-21" width="250"/>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9AB7D6381AC6FAD551D33989D9EC014FBEE9E2074DBACF48EB67F56DA3B5B991">
