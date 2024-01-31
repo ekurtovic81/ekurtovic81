@@ -108,7 +108,7 @@
 
 <h2>📜 Certification:</h2>
 
-<div id="Certification" align="left">
+<div id="Certification" align="center">
   <a href="https://www.credly.com/badges/1c464dd8-399f-4bf1-9a93-3728e27dd467">
     <img src="https://images.credly.com/size/340x340/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png" alt="Exam 410: Installing and Configuring Windows Server 2012" width="100"/>
  <a href="https://www.credly.com/badges/aea227f6-ef25-4705-ab3c-0cefac385ec2">
@@ -124,7 +124,7 @@
  <a href="https://www.credly.com/badges/f95d9484-42c6-45a5-ad04-818fae657a27">
     <img src="https://images.credly.com/size/340x340/images/07317d4a-ea7a-40b7-800c-03de4658ea31/image.png" alt="Nutanix Certified Associate 6" width="100"/>   
 </div>
-<div id="AWS" align="left">
+<div id="AWS" align="center">
   <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
     <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="100"/>
   <a href="https://www.credly.com/badges/bb586728-4742-4c35-8a8b-d1f011c510a8">
@@ -149,7 +149,7 @@
     <img src="https://images.credly.com/size/340x340/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png" alt="AWS Knowledge: Storage Technologist" width="100"/>
     
   </div>
-<div id="OCI" align="left">
+<div id="OCI" align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png" alt="Oracle Certification: Oracle Cloud Infrastructure 2021 Certified Associate 1Z0-1085-21" width="250"/>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=703F95C2C65D320C9610ADE8F9691ABECD5D2B4DAC426A1A1760CF44C0F6DCDD">
