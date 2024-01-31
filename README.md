@@ -121,6 +121,8 @@
     <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="100"/>
  <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="100"/>
+ <a href="https://www.credly.com/badges/f95d9484-42c6-45a5-ad04-818fae657a27">
+    <img src="https://images.credly.com/size/340x340/images/07317d4a-ea7a-40b7-800c-03de4658ea31/image.png" alt="Nutanix Certified Associate 6" width="100"/>   
 </div>
 <div id="AWS" align="left">
   <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
@@ -141,6 +143,11 @@
     <img src="https://images.credly.com/size/340x340/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" alt="AWS Knowledge: Data Protection & Disaster Recovery" width="100"/>
   <a href="https://www.credly.com/badges/80540154-10f5-4d79-bb0c-ed2c59804516">
     <img src="https://images.credly.com/size/340x340/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png" alt="AWS Knowledge: Storage Core" width="100"/>
+  <a href="https://www.credly.com/badges/4b18ca8a-7c63-4217-91fb-24896ba1f16a">
+    <img src="https://images.credly.com/size/340x340/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png" alt="AWS Knowledge: Data Migration" width="100"/>
+    <a href="https://www.credly.com/badges/3fcd2595-1357-48f1-b40b-3b3f390edff4">
+    <img src="https://images.credly.com/size/340x340/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png" alt="AWS Knowledge: Storage Technologist" width="100"/>
+    
   </div>
 <div id="OCI" align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2FF7746F43718E4323787E1667D54627C637C64CF67C12BCA9A302B7F48116AF">
