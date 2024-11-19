@@ -122,7 +122,7 @@
  <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="100"/>
  <a href="https://www.credly.com/badges/f95d9484-42c6-45a5-ad04-818fae657a27">
-    <img src="https://images.credly.com/size/340x340/images/07317d4a-ea7a-40b7-800c-03de4658ea31/image.png" alt="Nutanix Certified Associate 6" width="100"/>   
+    <img src="https://images.credly.com/size/340x340/images/af456ad3-b7d9-4252-a642-181a604103b2/image.png" alt="Nutanix Certified Associate 6" width="100"/>   
 </div>
 <div id="AWS" align="center">
   <a href="https://www.credly.com/badges/b1a26731-fef0-4f13-96ea-b7b8affab2c7">
