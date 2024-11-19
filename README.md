@@ -118,7 +118,7 @@
  <a href="https://www.credly.com/badges/19d088bc-c994-4b85-990e-8f8609e42462">
     <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900" width="100"/>
  <a href="https://www.credly.com/badges/35b76fb0-d452-449d-bbee-da7e52fbbd2f">
-    <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="100"/>
+    <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="AWS Partner: Accreditation (Technical)" width="100"/>
  <a href="https://www.credly.com/badges/ab398461-99b8-4a20-81d2-86376ae4c756">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner CLF-C01" width="100"/>
  <a href="https://www.credly.com/badges/f95d9484-42c6-45a5-ad04-818fae657a27">
