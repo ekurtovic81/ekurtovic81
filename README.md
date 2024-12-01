@@ -104,6 +104,7 @@
   - [Linux: Major Distribution Groups and the Top 10 Commands for System and Hardware Monitoring](https://dev.to/ekurtovic/linux-major-distribution-groups-and-the-top-10-commands-for-system-and-hardware-monitoring-4kj6)
   - [The Advantages of Agentless Solutions for Backup - HYCU](https://dev.to/ekurtovic/the-advantages-of-agentless-solutions-for-backup-30bg)
   - [How to Sell Disaster Recovery to Senior Management](https://dev.to/ekurtovic/how-to-sell-disaster-recovery-to-senior-management-53m7)
+  - [Linux Security Checkup: Comprehensive Guide to Quick Audit Essentials](https://dev.to/ekurtovic/linux-security-checkup-comprehensive-guide-to-quick-audit-essentials-ljm)
 
 
 <h2>📜 Certification:</h2>
